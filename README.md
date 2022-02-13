@@ -43,6 +43,8 @@ employee, add department and add role. Then you are also given the oppurtunity t
 ## Walkthrough
 
 
+https://user-images.githubusercontent.com/93742788/153770340-0c21688d-4ec2-43ca-9ab7-065e81b7eeeb.mp4
+
  
 
 ## Questions
